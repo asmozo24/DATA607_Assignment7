@@ -1,11 +1,11 @@
 <?xml version = "1.0" encoding="UTF-8"?>
 <My_03_Books>
   <Book>
-    <Book_Title>Data Science for Business<Book_Title>
+    <Book_Title>Data Science for Business</Book_Title>
     <Book_Authors>Foster Provost and Tom Fawcett</Book_Authors>
     <Book_Published_year>2013</Book_Published_year>
     <Book_version>First Edition</Book_version>
-    <Book_Volume>384 pages</'Book Volume'>
+    <Book_Volume>384 pages</Book_Volume>
     
   </Book>
   <Book>
