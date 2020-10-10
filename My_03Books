@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+	<html>
+		<body>
+			<table>
+				<tr>
+					<th>Book Title</th>
+          <th>Book Authors</th>
+					<th>Book Published year</th>
+					<th>Book version</th>
+          <th>Book Volume</th>
+				</tr>
+				<tr>
+					<td>Data Science for Business</td>
+					<td>Foster Provost and Tom Fawcett</td>
+					<td>2013</td>
+					<td> First Edition</td>
+          <td>384 pages</td>
+          
+				</tr>
+				<tr>
+					<td>Automated Data Collection with R</td>
+					<td>Simon Munzert, Christian
+Rubba, Peter Meißner, Dominic Nyhuis</td>
+					<td>2015</td>
+					<td>First Edition</td>
+          <td>452 pages</td>
+				</tr>
+				<tr>
+					<td>Learning statistics with R</td>
+					<td>Danielle Joseph Navarro</td>
+					<td>2014</td>
+					<td>Fouth Edition</td>
+          <td>599 pages</td>
+				</tr>
+				</table>
+		</body>
+	</html>
