@@ -1,26 +1,26 @@
 <?xml version = "1.0" encoding="UTF-8"?>
 <My_03_Books>
   <Book>
-    <Book Title>Data Science for Business</Book Title>
-    <Book Authors>Foster Provost and Tom Fawcett</Book Authors>
-    <Book Published year>2013</Book Published year>
-    <Book version>First Edition</Book version>
-    <Book Volume>384 pages</Book Volume>
+    <'Book Title'>Data Science for Business</'Book Title'>
+    <'Book Authors'>Foster Provost and Tom Fawcett</'Book Authors'>
+    <'Book Published year'>2013</'Book Published year'>
+    <'Book version'>First Edition</'Book version'>
+    <'Book Volume'>384 pages</'Book Volume'>
     
   </Book>
   <Book>
-    <Book Title>Automated Data Collection with R</Book Title>
-    <Book Authors>Simon Munzert, Christian
-Rubba, Peter Meißner, Dominic Nyhuis</Book Authors>
-    <Book Published year>2015</Book Published year>
-    <Book version>First Edition</Book version>
-    <Book Volume>452 pages</Book Volume>
+    <'Book Title'>Automated Data Collection with R</'Book Title'>
+    <'Book Authors'>Simon Munzert, Christian
+Rubba, Peter Meißner, Dominic Nyhuis</'Book Authors'>
+    <'Book Published year'>2015</'Book Published year'>
+    <'Book version'>First Edition</'Book version'>
+    <'Book Volume'>452 pages</'Book Volume'>
   </Book>
   <Book>
-    <Book Title>Learning statistics with R</Book Title>
-    <Book Authors>Danielle Joseph Navarro</Book Authors>
-    <Book Published year>2014</Book Published year>
-    <Book version>Fouth Edition</Book version>
-    <Book Volume>599 pages</Book Volume>
+    <'Book Title'>Learning statistics with R</'Book Title'>
+    <'Book Authors'>Danielle Joseph Navarro</'Book Authors'>
+    <'Book Published year'>2014</'Book Published year'>
+    <'Book version'>Fouth Edition</'Book version'>
+    <'Book Volume'>599 pages</'Book Volume'>
   </Book>
 </My_03_Books>
