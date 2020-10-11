@@ -1,7 +1,7 @@
 
 {"My_03Books.JSON" :[ 
 	{"Book_Title": "Data Science for Business",
-   "Book_Authors": ["Foster Provost and Tom Fawcett"],
+   "Book_Authors": "Foster Provost and Tom Fawcett",
    "Book_Published_year": "2013", 
    "Book_version": "First Edition", 
    "Book_Volume": "384 pages" 
@@ -17,6 +17,6 @@ Rubba", "Peter Meißner", "Dominic Nyhuis"],
    "Book_Authors": ["Danielle Joseph Navarro"],
    "Book_Published_year": "2014", 
    "Book_version": "Fouth Edition", 
-   "Book_Volume": "599 pages" 
+   "Book_Volume": "599 pages"
 	}]
 }
