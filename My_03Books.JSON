@@ -1,5 +1,5 @@
 
-{ [ 
+{ :[ 
 	{"Book_Title": "Data Science for Business",
    "Book_Authors": "Foster Provost and Tom Fawcett",
    "Book_Published_year": "2013", 
