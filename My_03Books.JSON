@@ -13,7 +13,7 @@
    "Book_Volume": "452 pages" 
 	},
 	{"Book_Title": "Learning statistics with R",
-   "Book_Authors": ["Danielle Joseph Navarro"],
+   "Book_Authors": "Danielle Joseph Navarro",
    "Book_Published_year": "2014", 
    "Book_version": "Fouth Edition", 
    "Book_Volume": "599 pages"
